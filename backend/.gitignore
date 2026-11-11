@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build files
+frontend/dist/
+backend/dist/
+
+# Uploaded files
+backend/uploads/
+
+# Database backups
+*.backup
+*.sql
+
+# ZIP files
+*.zip
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+{
+  "name": "FloodFlow",
+  "short_name": "FloodFlow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "description": "Flood Evacuation and Emergency Assistance System",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
